@@ -6,12 +6,19 @@
 
 ## LOG
 
+20260108
+
+* 健身房
+  * 背：训记，1h10min，热量消耗739大卡，容量5681.6kg
+  * 记录：[赛博练胸day134 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/695f0d6c000000000e03dd71?source=webshare&xhsshare=pc_web&xsec_token=AB5kgtGsdwYuacxYbQqdiz7FMwjpTTQxEiLpbhy5k9qL0=&xsec_source=pc_share)
+
 20260107
 
 * 健身房
   * 胸：训记，18min
   * 记录：[赛博练胸day133 - 痞咖Pika | 小红书 - 你的生活兴趣社区](https://www.xiaohongshu.com/discovery/item/695db0ae000000001a0225f6?source=webshare&xhsshare=pc_web&xsec_token=ABvreL10Qfy1hls3F8_Jh364YGAMMtYxnrZBIlJLyWwiU=&xsec_source=pc_share)
 * 游泳馆
+  * 游泳：50min
 
 20260106
 
