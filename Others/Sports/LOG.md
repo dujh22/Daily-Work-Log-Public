@@ -6,6 +6,13 @@
 
 ## LOG
 
+20260110
+
+* 健身房
+  * ![1768048936799](image/LOG/1768048936799.png)
+  * ![1768048945058](image/LOG/1768048945058.png)
+  * [赛博练胸day136 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/6961c1b2000000001a02ca72?source=webshare&xhsshare=pc_web&xsec_token=ABsTEB4z5sTpr_jCPZhKy8W_yMeYSshI6CQOmH-10vKgk=&xsec_source=pc_share)
+
 20260109
 
 * 健身房
