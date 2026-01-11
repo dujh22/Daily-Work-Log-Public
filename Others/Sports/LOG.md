@@ -6,6 +6,14 @@
 
 ## LOG
 
+20260111
+
+* 健身房
+  * ![1768130693442](image/LOG/1768130693442.png)
+  * [赛博练胸day137 - 痞咖Pika | 小红书 - 你的生活兴趣社区](https://www.xiaohongshu.com/discovery/item/69630c3c000000000e00c138?source=webshare&xhsshare=pc_web&xsec_token=ABG0_WlYjdEyo3CV0GKlyJbb7DyF5bo12WJ2WJOvVpMp4=&xsec_source=pc_share)
+* 羽毛球
+  * 羽毛球：2小时，胜利3局，败2局
+
 20260110
 
 * 健身房
