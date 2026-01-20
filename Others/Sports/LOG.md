@@ -6,7 +6,12 @@
 
 ## LOG
 
-20260113
+20260117
+
+* 健身房
+  * 有氧30分钟：椭圆机
+  * ![1768877127583](image/LOG/1768877127583.png)
+  * [赛博练胸day138 - 痞咖Pika | 小红书 - 你的生活兴趣社区](https://www.xiaohongshu.com/discovery/item/696b117e000000001a01f35d?source=webshare&xhsshare=pc_web&xsec_token=ABEqO1ILvfTxxI_PfFJboatIhqLEOE9hmMgXscuZh2hbA=&xsec_source=pc_share)
 
 20260112：差旅，无
 
