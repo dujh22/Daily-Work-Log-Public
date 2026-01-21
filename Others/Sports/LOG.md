@@ -6,6 +6,13 @@
 
 ## LOG
 
+20260121
+
+* 健身房
+  * 有氧20分钟：变速跑
+  * 无氧全身30分钟
+  * [赛博练胸day139 - 痞咖Pika | 小红书 - 你的生活兴趣社区](https://www.xiaohongshu.com/discovery/item/697031e1000000001a026b2a?source=webshare&xhsshare=pc_web&xsec_token=ABhRBKO8Q11gnHfCDFw3C6K90mFhW-CyETJ7m6Kw0H-7I=&xsec_source=pc_share)
+
 20260117
 
 * 健身房
