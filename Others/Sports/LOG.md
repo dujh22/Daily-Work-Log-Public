@@ -6,6 +6,12 @@
 
 ## LOG
 
+20260122
+
+* 健身房
+  * 胸部训练：60分钟
+  * [赛博练胸day140 - 痞咖Pika | 小红书 - 你的生活兴趣社区](https://www.xiaohongshu.com/discovery/item/69717e8a000000001a031226?source=webshare&xhsshare=pc_web&xsec_token=ABMrrFKsaBJWZycZBoeNlZnDI404uo2UyHKa0-w4Lt29U=&xsec_source=pc_share)
+
 20260121
 
 * 健身房
