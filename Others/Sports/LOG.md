@@ -6,6 +6,11 @@
 
 ## LOG
 
+20260124
+
+* 健身房：腿
+* [赛博练胸day142 - 痞咖Pika](https://www.xiaohongshu.com/discovery/item/69741c55000000001a01df3c?source=webshare&xhsshare=pc_web&xsec_token=ABxT62aI7dUVQnYQBm6OAF11EIYus2v_xkckc7IYlrE_U=&xsec_source=pc_share)
+
 20260123
 
 - 健身房-椭圆机有氧30分钟+常规训练
