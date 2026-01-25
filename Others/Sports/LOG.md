@@ -6,6 +6,11 @@
 
 ## LOG
 
+20260123
+
+* 健身房：全身哑铃减脂
+* [赛博练胸day143 - 痞咖Pika](https://www.xiaohongshu.com/discovery/item/69758c91000000002801df37?source=webshare&xhsshare=pc_web&xsec_token=ABzXUNaAnF_AXURZNUNcR_aZwFjCVweiyyUY1XMeWEpAg=&xsec_source=pc_share)
+
 20260124
 
 * 健身房：腿
