@@ -6,6 +6,8 @@
 
 ## LOG
 
+20260208｜健身房：背部训练60分钟｜[赛博练胸day154 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/6987eb21000000001a033f1f?source=webshare&xhsshare=pc_web&xsec_token=ABmu-6y4_bmGUC8P_CPw8rn38p530QuhpZj2-kmnbRAgg=&xsec_source=pc_share)
+
 20260207｜健身房：有氧跑步45分钟｜[赛博练胸day153 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/6986955f000000001a02b3ce?source=webshare&xhsshare=pc_web&xsec_token=AB1JEADp0wxwVIMfuQk45ADf1Js-3Coulud83toH6pl1s=&xsec_source=pc_share)
 
 20260206｜健身房：胸｜[赛博练胸day152 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/698541e5000000001a02b3b8?source=webshare&xhsshare=pc_web&xsec_token=ABlNTUyWvjy71AXOcNKMuKqm47dqVh-OE4nHZ23PqhUO0=&xsec_source=pc_share)
