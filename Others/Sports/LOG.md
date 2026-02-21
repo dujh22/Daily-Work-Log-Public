@@ -6,6 +6,14 @@
 
 ## LOG
 
+20260221｜健身房：背部训练60分钟（C6健身房，很新很大）｜[赛博练胸day167 - 痞咖Pika | 小红书 ](https://www.xiaohongshu.com/discovery/item/6999314c000000001a01dbe8?source=webshare&xhsshare=pc_web&xsec_token=ABUjTX08FMaRhHxh9hQ7QJNglbRA5jL4KmBP6sIgWTPYs=&xsec_source=pc_share)
+
+20260220｜健身房：胸部训练60分钟（云冈建国宾馆健身房）+乒乓球+台球+羽毛球3h30min｜[赛博练胸day166 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/6997e7330000000028023f3d?source=webshare&xhsshare=pc_web&xsec_token=ABbeEmuI5FVzsUjJRhiNlMxwlZGG6CbPZQfOpXlBbvfZw=&xsec_source=pc_share)
+
+20260219｜健身房：有氧20分钟+腿部训练1小时+羽毛球+乒乓球（大同体育中心）｜[赛博练胸day165 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/699692bf000000002800b7fd?source=webshare&xhsshare=pc_web&xsec_token=AB6gjPnzRuB8HW4NViFaahlVTEPKXmO7o05FbeLFpnXgI=&xsec_source=pc_share)
+
+20260218｜健身房：胸背部锻炼60分钟｜[赛博练胸day164 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/699530fd000000001a028d6a?source=webshare&xhsshare=pc_web&xsec_token=ABASGrHO0-gLnVfOiz5JfGg_2tRi5SblzxGEDaM6ORYzE=&xsec_source=pc_share)
+
 20260217｜健身房：胸背部锻炼60分钟｜[赛博练胸day164 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/699530fd000000001a028d6a?source=webshare&xhsshare=pc_web&xsec_token=ABASGrHO0-gLnVfOiz5JfGg_2tRi5SblzxGEDaM6ORYzE=&xsec_source=pc_share)
 
 20260216｜健身房：腿部训练60分钟｜[赛博练胸day162 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/699289eb000000001a0274ca?source=webshare&xhsshare=pc_web&xsec_token=ABZMn03AbE35ElBRcznnsUs004hydJlPXZfzsQTwPejX4=&xsec_source=pc_share)
@@ -60,26 +68,27 @@
 
 20260111｜健身房｜[赛博练胸day137 - 痞咖Pika](https://www.xiaohongshu.com/discovery/item/69630c3c000000000e00c138?source=webshare&xhsshare=pc_web&xsec_token=ABG0_WlYjdEyo3CV0GKlyJbb7DyF5bo12WJ2WJOvVpMp4=&xsec_source=pc_share)
 
-* 羽毛球：2小时，胜利3局，败2局
+- 羽毛球：2小时，胜利3局，败2局
 
 20260110｜健身房｜[赛博练胸day136 - 痞咖Pika](https://www.xiaohongshu.com/discovery/item/6961c1b2000000001a02ca72?source=webshare&xhsshare=pc_web&xsec_token=ABsTEB4z5sTpr_jCPZhKy8W_yMeYSshI6CQOmH-10vKgk=&xsec_source=pc_share)
 
 20260109｜健身房｜[赛博练胸day135 - 痞咖Pika](https://www.xiaohongshu.com/discovery/item/69605df8000000001a01e3d2?source=webshare&xhsshare=pc_web&xsec_token=ABlxOB3W532USY7Wq0UTxIzjKDGUpqyx4G0AyodvnsVoY=&xsec_source=pc_share)
 
-* 游泳：40min（2130-2210）
+- 游泳：40min（2130-2210）
 
 20260108｜健身房｜背：训记，1h10min｜[赛博练胸day134 - 痞咖Pika](https://www.xiaohongshu.com/discovery/item/695f0d6c000000000e03dd71?source=webshare&xhsshare=pc_web&xsec_token=AB5kgtGsdwYuacxYbQqdiz7FMwjpTTQxEiLpbhy5k9qL0=&xsec_source=pc_share)
 
 20260107｜健身房：胸：训记，18min｜[赛博练胸day133 - 痞咖Pika](https://www.xiaohongshu.com/discovery/item/695db0ae000000001a0225f6?source=webshare&xhsshare=pc_web&xsec_token=ABvreL10Qfy1hls3F8_Jh364YGAMMtYxnrZBIlJLyWwiU=&xsec_source=pc_share)
 
-* 游泳：50min（2130-2220）
+- 游泳：50min（2130-2220）
 
 20260106｜健身房：有氧-椭圆机M5级别，21min｜[赛博练胸day132 - 痞咖Pika](https://www.xiaohongshu.com/discovery/item/695c57ad000000001a033930?source=webshare&xhsshare=pc_web&xsec_token=ABo3sBjdoUhNqps4U8voCYcB_SE-65jFylJKjJjIdb-ro=&xsec_source=pc_share)
 
 20251228｜
 
-* 羽毛球
+- 羽毛球
 
 20251227｜游泳、羽毛球相关技术学习
 
-* 游泳
+- 游泳
+
