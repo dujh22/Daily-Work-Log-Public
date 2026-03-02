@@ -6,6 +6,22 @@
 
 ## LOG
 
+20260302｜健身房：胸部训练60分钟｜[赛博练胸day175 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/69a4e631000000001a02ca44?source=webshare&xhsshare=pc_web&xsec_token=ABOqFGmcUVycHwujR8key_l34n_2urFvYQlvb0ky5MW50=&xsec_source=pc_share)
+
+20260301｜[赛博练胸day174 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/69a3be38000000001a034763?source=webshare&xhsshare=pc_web&xsec_token=ABl-OzEdJ1Dcff9RJblVNhjuXUvNi9yQM9Da6Vg9l9LqE=&xsec_source=pc_share)
+
+20260227｜[赛博练胸day173 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/69a28da30000000028022aaa?source=webshare&xhsshare=pc_web&xsec_token=ABEYGuvTnBuymBAETyWJNjeMFIBkSREuGmbHU-No64XiQ=&xsec_source=pc_share)
+
+20260226｜[赛博练胸day172 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/699fcfda000000002801fc73?source=webshare&xhsshare=pc_web&xsec_token=ABaLRVOGkH6kHaoj1FLfkXhhO4d6HU5NIzQUFabhvGVzw=&xsec_source=pc_share)
+
+20260225｜[赛博练胸day171 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/699e77b9000000001a02c384?source=webshare&xhsshare=pc_web&xsec_token=ABylX6ECIY6n04cLvF6UTc1n52-3B-TygD2oweEzHGhrA=&xsec_source=pc_share)
+
+20260224｜[赛博练胸day170 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/699d1a4a000000001a0303d9?source=webshare&xhsshare=pc_web&xsec_token=AB6mtezY75mAaAbUnf-vv01R-cwcmz737cYYf1azVAtb4=&xsec_source=pc_share)
+
+20260223｜[赛博练胸day169 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/699bf4aa000000001a01e16e?source=webshare&xhsshare=pc_web&xsec_token=ABYB4Gt3kqvy-sCP6_WbLJllpksz-XLsAkCWJRwKzy8nU=&xsec_source=pc_share)
+
+20260222｜[赛博练胸day168 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/699a84f1000000000e00eb0c?source=webshare&xhsshare=pc_web&xsec_token=ABOXp7DLJaV_WOIlWt-HCPrIwOFztDeMALISDB0bX8c_w=&xsec_source=pc_share)
+
 20260221｜健身房：背部训练60分钟（C6健身房，很新很大）｜[赛博练胸day167 - 痞咖Pika | 小红书 ](https://www.xiaohongshu.com/discovery/item/6999314c000000001a01dbe8?source=webshare&xhsshare=pc_web&xsec_token=ABUjTX08FMaRhHxh9hQ7QJNglbRA5jL4KmBP6sIgWTPYs=&xsec_source=pc_share)
 
 20260220｜健身房：胸部训练60分钟（云冈建国宾馆健身房）+乒乓球+台球+羽毛球3h30min｜[赛博练胸day166 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/6997e7330000000028023f3d?source=webshare&xhsshare=pc_web&xsec_token=ABbeEmuI5FVzsUjJRhiNlMxwlZGG6CbPZQfOpXlBbvfZw=&xsec_source=pc_share)
@@ -91,4 +107,3 @@
 20251227｜游泳、羽毛球相关技术学习
 
 - 游泳
-
