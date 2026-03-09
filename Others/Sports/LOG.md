@@ -6,7 +6,13 @@
 
 ## LOG
 
-20260305｜健身房：腿部训练60分钟｜[赛博练胸day179 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/69aa29ad000000001a0329db?source=webshare&xhsshare=pc_web&xsec_token=ABOHUkzFvKaAD7hisgR7qZzfFtOp29JnLdd2zHNL_maFk=&xsec_source=pc_share)
+20260309｜健身房：腿｜[赛博练胸day182 - 痞咖Pika | 小红书 ](https://www.xiaohongshu.com/discovery/item/69ae1c5f000000001a01e04d?source=webshare&xhsshare=pc_web&xsec_token=ABhi2XGu0Wv3pO5ICXf7ubUPuJQHWsBYt4ffr0laruSwo=&xsec_source=pc_share)
+
+20260308｜健身房：背｜[赛博练胸day181 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/69accb8c000000002800a07a?source=webshare&xhsshare=pc_web&xsec_token=ABlLRFtf8ckXWBmP9kYOF9CTOGIMDBF1qvQsEWE0A1r2k=&xsec_source=pc_share) ｜ 羽毛球2小时
+
+20260307｜健身房：胸｜[赛博练胸day180 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/69ab8128000000002801eecf?source=webshare&xhsshare=pc_web&xsec_token=ABQyD_lJ_LhDPFDu3kLSUrY_ITW4aORa-THm7WIrvKWf4=&xsec_source=pc_share) ｜ 网球2小时
+
+20260306｜健身房：腿部训练60分钟｜[赛博练胸day179 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/69aa29ad000000001a0329db?source=webshare&xhsshare=pc_web&xsec_token=ABOHUkzFvKaAD7hisgR7qZzfFtOp29JnLdd2zHNL_maFk=&xsec_source=pc_share)
 
 20260305｜健身房：减脂操60分钟｜[赛博练胸day178 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/69a906cd000000000e03ef8d?source=webshare&xhsshare=pc_web&xsec_token=ABhPi45_Kkl1sGjFZjg2kjz-WRQ0wcWXGaMTAbG6bNcRo=&xsec_source=pc_share)
 
