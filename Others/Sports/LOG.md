@@ -6,6 +6,8 @@
 
 ## LOG
 
+20250310｜健身房：有氧40分钟｜[赛博练胸day183 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/69af80f2000000000e00d4e7?source=webshare&xhsshare=pc_web&xsec_token=ABcQ_dDaeCv1zOX14hVgY8flZVAkl8X0tKVO4w6f8DuJc=&xsec_source=pc_share)
+
 20260309｜健身房：腿｜[赛博练胸day182 - 痞咖Pika | 小红书 ](https://www.xiaohongshu.com/discovery/item/69ae1c5f000000001a01e04d?source=webshare&xhsshare=pc_web&xsec_token=ABhi2XGu0Wv3pO5ICXf7ubUPuJQHWsBYt4ffr0laruSwo=&xsec_source=pc_share)
 
 20260308｜健身房：背｜[赛博练胸day181 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/69accb8c000000002800a07a?source=webshare&xhsshare=pc_web&xsec_token=ABlLRFtf8ckXWBmP9kYOF9CTOGIMDBF1qvQsEWE0A1r2k=&xsec_source=pc_share) ｜ 羽毛球2小时
