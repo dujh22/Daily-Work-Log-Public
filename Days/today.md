@@ -9,10 +9,14 @@
 
 ### 2026-03-20
 
-1. EvolveLRM-Datamaker部分：测试LogicEvolve相关数据合成部分功能
-   1. 830-开始，842-12-无进度
-   2. 
-2. 
+1. CHI工作安排：
+   1. 确定数据采集路线
+   2. 确定数据SOP第一版
+2. EvolveLRM-
+   1. Datamaker部分：测试LogicEvolve相关数据合成部分功能
+      1. 1h改代码，进度缓慢
+      2. 1404-
+3. 
 
 ## 注意
 
