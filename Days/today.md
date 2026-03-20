@@ -7,11 +7,11 @@
 * 开题报告修改：MedRad表格/算法/引用，LogicEvolve附录穿插
 * 新工作 —— EvolveLLM
 
-### 2026-03-18
+### 2026-03-20
 
-1. EvolveLRM-Datamaker部分：
-
-   1. 测试LogicEvolve相关数据合成部分功能
+1. EvolveLRM-Datamaker部分：测试LogicEvolve相关数据合成部分功能
+   1. 830-开始，842-12-无进度
+   2. 
 2. 
 
 ## 注意
