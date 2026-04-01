@@ -36,8 +36,7 @@
    5. 论文第二稿
 3. LogicEvolve优化
    1. to do list 推进
-   2. to do list 推进
-   3. 专利
+   2. 专利
 4. LogicSurvey
 
 ### 📑 开题
@@ -66,3 +65,5 @@
 6. Evaluator改造
    1. 封装evaluator相关功能，可能需要调整部分命令支持非交互式配置:config非交互式命令支持
    2. LogicEvolve新增更多逻辑推理相关评测
+
+
