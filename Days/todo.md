@@ -18,11 +18,12 @@
 
 1. 会议
    1. [ICML](https://icml.cc/Conferences/2026) [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Conference) 回复截止4.7
-   2. [NeurIPS](https://neurips.cc/Conferences/2025)、SIGMOD 4月份开放提交
+   2. [SIGMOD](https://2027.sigmod.org/index.shtml) 4月份开放提交
       1. 摘要截止 4.10
       2. 全文截止 4.17
-   3. [AAAI](https://aaai.org/conference/aaai/aaai-26/) 7月份
-   4. ICLR 9月份
+   3. [NeurIPS](https://neurips.cc/Conferences/2025) 5月4日前
+   4. [AAAI](https://aaai.org/conference/aaai/aaai-26/) 7月份
+   5. ICLR 9月份
 2. 开题：院系开题答辩4.8
 
 ## 重要
@@ -41,18 +42,22 @@
 
 ### 📑 开题
 
-1. 开题条件
+> 博士开题PPT一般讲20分钟：春季工学博士开题安排在4月8日：文献综述、选题背景及其意义、研究内容、工作特色及难点、预期成果及可能的创新点、论文工作计划等。
 
-   1. [【腾讯文档】KEG毕业建议](https://docs.qq.com/doc/DQ0FWYlpHaG9KbG9K)
-   2. [【腾讯文档】创新成果认定办法-计算机分委员会-最新通用202008.docx](https://docs.qq.com/doc/DQ0pDSXNlRVh2Z2xZ?_bid=1&client=drive_file)
-   3. [【腾讯文档】KEG答辩清单](https://docs.qq.com/doc/DQ3lwVk5sUlJQd3lW)
-2. 文献综述、选题背景及其意义、研究内容、工作特色及难点、预期成果及可能的创新点、论文工作计划等。
-3. 博士开题PPT一般讲20分钟：春季工学博士开题预计将安排在4月8日
-4. todo
 
-   1. PPT修改
-      1. 现有方法在 X 上失败，因此我们必须 Y
-5. 
+1. 针对PPT中各个部分进行有效确认，包括之前发现的问题
+2. 过一遍之前的论文 ➡️ 关键性笔记
+
+   1. 过一遍开题报告
+   2. 相关工作5篇必看
+   3. 前期工作3篇必看（除去开题报告里面的5篇）
+3. ⌛️ 按照GPT意见重新修改汇报稿和PPT
+4. ⌛️ 今天务必开始背稿子，看看能背多少
+5. ✅ 适配Office (50min)
+6. ✅ PPT修改：强调下具体系统部署情况，PPT成果汇总页（10min）
+7. ✅  准备相关工作 （2h）
+8. ✅ GPT提提意见，完整过一遍，注意细节（2h）
+
 
 ### ⌛️ EvolveLRM
 
@@ -65,5 +70,3 @@
 6. Evaluator改造
    1. 封装evaluator相关功能，可能需要调整部分命令支持非交互式配置:config非交互式命令支持
    2. LogicEvolve新增更多逻辑推理相关评测
-
-
