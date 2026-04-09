@@ -21,38 +21,24 @@
    2. [SIGMOD](https://2027.sigmod.org/index.shtml) 4月份开放提交
       1. 摘要截止 4.10
       2. 全文截止 4.17
-   3. [NeurIPS](https://neurips.cc/Conferences/2025) 5月4日前
-   4. [AAAI](https://aaai.org/conference/aaai/aaai-26/) 7月份
-   5. ICLR 9月份
+   3. [NeurIPS](https://neurips.cc/Conferences/2026) 5月4日前
+   4. ARR 5月25日前
+   5. [AAAI](https://aaai.org/conference/aaai/aaai-26/) 7月份
+   6. ICLR 9月份
 2. 开题：院系开题答辩4.8
 
 ## 重要
 
-1. 开题
-2. EvolveLRM（详见日志.md）
+1. EvolveLRM（详见日志.md）
    1. 跑通整个工程
    2. 主实验结果与可复现性报告
    3. 消融实验结果与可复现性报告
    4. 相关工作进一步调研
    5. 论文第二稿
-3. LogicEvolve优化
+2. LogicEvolve优化
    1. to do list 推进
    2. 专利
-4. LogicSurvey
-
-### 📑 开题
-
-> 博士开题PPT一般讲20分钟：春季工学博士开题安排在4月8日：文献综述、选题背景及其意义、研究内容、工作特色及难点、预期成果及可能的创新点、论文工作计划等。
-
-今天背稿子和关键记忆协同：
-
-背稿子
-
-过一遍之前的论文 ➡️ 关键性笔记
-
-1. 过一遍开题报告
-2. 相关工作5篇必看
-3. 前期工作3篇必看（除去开题报告里面的5篇）
+3. LogicSurvey
 
 ### ⌛️ EvolveLRM
 
