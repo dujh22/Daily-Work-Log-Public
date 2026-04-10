@@ -51,3 +51,10 @@
 6. Evaluator改造
    1. 封装evaluator相关功能，可能需要调整部分命令支持非交互式配置:config非交互式命令支持
    2. LogicEvolve新增更多逻辑推理相关评测
+
+
+# 日志
+
+949- 熟悉claude code 和 openclaw
+
+1. ⌛️ 安装公司vibe coding 相关产品(4h)
