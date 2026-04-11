@@ -4,6 +4,22 @@
 
 清华大学2025年健美比赛：健体A组(165-170cm)-第五名
 
+## 健身
+
+1. 通用原则
+   1. 所有动作都要做到位，而不是为了大重量而舍弃质量
+2. 胸
+   1. 锻炼前需要充分热身：10分钟
+      1. 通过泡沫轴把背放松
+      2. 通过2.5kg哑铃片把肩膀放松
+   2. 具体锻炼4个动作即可：第一个动作30分钟，
+      1. 重点是中胸和下胸，上胸不用练，会自然就有
+      2. 第一个最关键的是平板卧推
+      3. 第二个可以练史密斯器械的卧推
+      4. 第三个可以练固定器械的坐姿推胸
+      5. 最后是龙门架夹胸
+   3. 一定要在安全辅助的情况下慢慢上重量，比如感觉40kg 可以轻松做12个了，就可以进一步加到45kg
+
 ## LOG
 
 后续更新持续在小红书上，在这里不进行说明。
@@ -12,7 +28,7 @@
 
 20250310｜健身房：有氧40分钟｜[赛博练胸day183 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/69af80f2000000000e00d4e7?source=webshare&xhsshare=pc_web&xsec_token=ABcQ_dDaeCv1zOX14hVgY8flZVAkl8X0tKVO4w6f8DuJc=&xsec_source=pc_share)
 
-20260309｜健身房：腿｜[赛博练胸day182 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/69ae1c5f000000001a01e04d?source=webshare&xhsshare=pc_web&xsec_token=ABhi2XGu0Wv3pO5ICXf7ubUPuJQHWsBYt4ffr0laruSwo=&xsec_source=pc_share) 
+20260309｜健身房：腿｜[赛博练胸day182 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/69ae1c5f000000001a01e04d?source=webshare&xhsshare=pc_web&xsec_token=ABhi2XGu0Wv3pO5ICXf7ubUPuJQHWsBYt4ffr0laruSwo=&xsec_source=pc_share)
 
 20260308｜健身房：背｜[赛博练胸day181 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/69accb8c000000002800a07a?source=webshare&xhsshare=pc_web&xsec_token=ABlLRFtf8ckXWBmP9kYOF9CTOGIMDBF1qvQsEWE0A1r2k=&xsec_source=pc_share) ｜ 羽毛球2小时
 
@@ -42,7 +58,7 @@
 
 20260222｜[赛博练胸day168 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/699a84f1000000000e00eb0c?source=webshare&xhsshare=pc_web&xsec_token=ABOXp7DLJaV_WOIlWt-HCPrIwOFztDeMALISDB0bX8c_w=&xsec_source=pc_share)
 
-20260221｜健身房：背部训练60分钟（C6健身房，很新很大）｜[赛博练胸day167 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/6999314c000000001a01dbe8?source=webshare&xhsshare=pc_web&xsec_token=ABUjTX08FMaRhHxh9hQ7QJNglbRA5jL4KmBP6sIgWTPYs=&xsec_source=pc_share) 
+20260221｜健身房：背部训练60分钟（C6健身房，很新很大）｜[赛博练胸day167 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/6999314c000000001a01dbe8?source=webshare&xhsshare=pc_web&xsec_token=ABUjTX08FMaRhHxh9hQ7QJNglbRA5jL4KmBP6sIgWTPYs=&xsec_source=pc_share)
 
 20260220｜健身房：胸部训练60分钟（云冈建国宾馆健身房）+乒乓球+台球+羽毛球3h30min｜[赛博练胸day166 - 痞咖Pika | 小红书](https://www.xiaohongshu.com/discovery/item/6997e7330000000028023f3d?source=webshare&xhsshare=pc_web&xsec_token=ABbeEmuI5FVzsUjJRhiNlMxwlZGG6CbPZQfOpXlBbvfZw=&xsec_source=pc_share)
 
@@ -117,4 +133,3 @@
 20251228｜羽毛球
 
 20251227｜游泳、羽毛球相关技术学习
-
