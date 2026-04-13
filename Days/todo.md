@@ -42,14 +42,65 @@
 
 ### ⌛️ EvolveLRM
 
-1. Datamaker改造
-   1. 测试LogicEvolve相关数据合成部分功能
+1. Datamaker改造：测试LogicEvolve相关数据合成部分功能
 2. 工程planner+优化目标实现
 3. 工程论文经验抽取
-4. 基础实验
-5. Trainer修改
-6. Evaluator改造
+4. Trainer修改
+5. Evaluator改造
    1. 封装evaluator相关功能，可能需要调整部分命令支持非交互式配置:config非交互式命令支持
    2. LogicEvolve新增更多逻辑推理相关评测
+6. 基础实验
 
 # 日志
+
+1045-1200
+
+目标：【EvolveLRM】测试LogicEvolve相关数据合成部分功能
+
+实际：✅ 【EvolveLRM】数据合成default调用器开发
+
+1430-1500
+
+目标：完成SOP协作
+
+实际：✅ 完成《SOP V20260403版本 冲刺开发协作文档》
+
+1500-1600
+
+目标：完成明日算法会议和总会议相关汇报
+
+实际：✅ 完成《Core 会议》周报 和 《Algorithm 会议》周报
+
+1600-1700
+
+目标：【EvolveLRM】测试LogicEvolve相关数据合成部分功能
+
+实际：
+
+✅ 更新PuzzleSolverGeneratorAgent、main、club master
+
+⌛️【EvolveLRM】测试LogicEvolve相关数据合成部分功能
+
+1700-1900-2小时
+
+目标：
+
+【EvolveLRM】测试LogicEvolve相关数据合成部分功能
+
+【EvolveLRM】构造Planner
+
+实际：
+
+⌛️【EvolveLRM】构造Planner
+
+1900-2100
+
+目标：
+
+【EvolveLRM】构造Planner
+
+【EvolveLRM】测试LogicEvolve相关数据合成部分功能
+
+实际：
+
+✅ 学习游泳课程：[24个课时最全游泳教学蛙泳自由泳](https://www.bilibili.com/video/BV1RP4y1z75q/?share_source=copy_web&vd_source=81659ded2cef583e77a037be7a04a472)
