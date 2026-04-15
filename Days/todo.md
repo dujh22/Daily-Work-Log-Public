@@ -35,10 +35,11 @@
    3. 消融实验结果与可复现性报告
    4. 相关工作进一步调研
    5. 论文第二稿
-2. LogicEvolve优化
+2. H-TokenBench
+3. LogicEvolve优化
    1. to do list 推进
    2. 专利
-3. LogicSurvey
+4. LogicSurvey
 
 ### ⌛️ EvolveLRM
 
@@ -51,3 +52,5 @@
    1. 封装evaluator相关功能，可能需要调整部分命令支持非交互式配置:config非交互式命令支持
    2. LogicEvolve新增更多逻辑推理相关评测
 7. 基础实验
+
+### H-TokenBench
