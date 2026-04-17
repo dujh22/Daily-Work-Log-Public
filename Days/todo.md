@@ -1,6 +1,65 @@
 # To-do List
 
-## 注意
+# DDL
+
+| 日期 | 星期 | 序号   | 关键部分              |
+| ---- | ---- | ------ | --------------------- |
+| 4.17 | 5    | 02w04d | EvolveLRM 完成工程    |
+| 4.18 | 6    | 02w03d | EvolveLRM 完成实验    |
+| 4.19 | 7    | 02w02d | LogicEvolce 修改      |
+| 4.20 | 1    | 02w01d | H-TokenBench 基础实验 |
+| 4.21 | 2    | 01w07d | H-TokenBench 论文     |
+| 4.22 | 3    | 01w06d |                       |
+| 4.23 | 4    | 01w05d |                       |
+| 4.24 | 5    | 01w04d |                       |
+| 4.25 | 6    | 01w03d |                       |
+| 4.26 | 7    | 01w02d |                       |
+| 4.27 | 1    | 01w01d |                       |
+| 4.28 | 2    | 00w07d |                       |
+| 4.29 | 3    | 00w06d |                       |
+| 4.30 | 4    | 00w05d |                       |
+| 5.1  | 5    | 00w04d |                       |
+| 5.2  | 6    | 00w03d |                       |
+| 5.3  | 7    | 00w02d |                       |
+| 5.4  | 1    | 00w01d |                       |
+
+# ⌛️ 1. EvolveLRM（[NeurIPS](https://neurips.cc/Conferences/2026) 5月4日前）
+
+> 详见日志.md
+
+1. 工程论文经验抽取：⌛️ 相关论文思路统计 from 顶会 or Arxiv
+2. 跑通整个工程
+   1. Datamaker改造：测试LogicEvolve相关数据合成部分功能
+   2. 工程planner+优化目标实现
+   3. Trainer修改
+   4. Evaluator改造
+      1. 封装evaluator相关功能，可能需要调整部分命令支持非交互式配置:config非交互式命令支持
+      2. LogicEvolve新增更多逻辑推理相关评测
+3. 主实验结果与可复现性报告
+4. 消融实验结果与可复现性报告
+5. 相关工作进一步调研
+6. 论文第二稿
+
+# ⌛️ 2. H-TokenBench（[NeurIPS](https://neurips.cc/Conferences/2026) 5月4日前）
+
+> 效率相关bench论文
+
+# 3. LogicEvolve优化（[NeurIPS](https://neurips.cc/Conferences/2026) 5月4日前）
+
+1. ❌ 改LogicEvolve论文
+2. to do list 推进
+3. 专利
+
+# ~~4. LogicSurvey~~
+
+# 📅 时间
+
+1. [ICML](https://icml.cc/Conferences/2026) 4月底出结果
+2. ARR 5月25日前
+3. [AAAI](https://aaai.org/conference/aaai/aaai-26/) 7月份
+4. ICLR 9月份
+
+# ⚠️ 注意
 
 1. 时刻记录——防止注意力不集中:时间相当有限，每一分钟都不会重来
 
@@ -13,44 +72,3 @@
    1. 别担心，做下去，just do it
    2. 比自己优秀的博主那么多，随便找1个都是鸡血满满
 3. 5点起床健身上班-10点下班11点休息
-
-## 时间
-
-1. 会议
-   1. [ICML](https://icml.cc/Conferences/2026) [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Conference) 回复截止4.7
-   2. [SIGMOD](https://2027.sigmod.org/index.shtml) 4月份开放提交
-      1. 摘要截止 4.10
-      2. 全文截止 4.17
-   3. [NeurIPS](https://neurips.cc/Conferences/2026) 5月4日前
-   4. ARR 5月25日前
-   5. [AAAI](https://aaai.org/conference/aaai/aaai-26/) 7月份
-   6. ICLR 9月份
-2. 开题：院系开题答辩4.8
-
-## 重要
-
-1. EvolveLRM（详见日志.md）
-   1. 跑通整个工程
-   2. 主实验结果与可复现性报告
-   3. 消融实验结果与可复现性报告
-   4. 相关工作进一步调研
-   5. 论文第二稿
-2. H-TokenBench
-3. LogicEvolve优化
-   1. to do list 推进
-   2. 专利
-4. LogicSurvey
-
-### ⌛️ EvolveLRM
-
-1. 工程论文经验抽取
-2. Datamaker改造：测试LogicEvolve相关数据合成部分功能
-3. 工程planner+优化目标实现
-4. 
-5. Trainer修改
-6. Evaluator改造
-   1. 封装evaluator相关功能，可能需要调整部分命令支持非交互式配置:config非交互式命令支持
-   2. LogicEvolve新增更多逻辑推理相关评测
-7. 基础实验
-
-### H-TokenBench
