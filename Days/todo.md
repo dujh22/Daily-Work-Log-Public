@@ -24,18 +24,17 @@
 
 > 详见日志.md
 
-1. 工程论文经验抽取：⌛️ 相关论文思路统计 from 顶会 or Arxiv
-2. 跑通整个工程
+1. 跑通整个工程
    1. Datamaker改造：测试LogicEvolve相关数据合成部分功能
    2. 工程planner+优化目标实现
    3. Trainer修改
    4. Evaluator改造
       1. 封装evaluator相关功能，可能需要调整部分命令支持非交互式配置:config非交互式命令支持
-      2. LogicEvolve新增更多逻辑推理相关评测
-3. 主实验结果与可复现性报告
-4. 消融实验结果与可复现性报告
-5. 相关工作进一步调研
-6. 论文第二稿
+2. 主实验结果与可复现性报告
+3. 消融实验结果与可复现性报告
+4. 相关工作进一步调研
+5. 论文第二稿
+6. Arxiv抽取经验
 
 # ⌛️ 2. H-TokenBench（[NeurIPS](https://neurips.cc/Conferences/2026) 5月4日前）
 
