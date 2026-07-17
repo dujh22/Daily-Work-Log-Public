@@ -1,4 +1,4 @@
-# ALL
+# 荣誉与奖项
 
 ## 曾获奖学金
 
@@ -128,3 +128,18 @@
 【18】面对以上三个问题，我将从“五育并举办活动，年轻党员起带头”的思路出发打出组合拳，让党支部在24年筑牢思政意识的基础上，继续在立德树人中发挥战斗堡垒作用。相关举措已在近两月开始试点并取得良好效果，我有信心让25年的党建工作更上层楼。
 
 【19】感谢各位，以上就是我述职的全部内容，欢迎大家批评指正。
+
+## 奖项材料索引
+
+以下专项材料文件使用英文文件名,中文对照如下:
+
+| 文件 | 中文名称 |
+| --- | --- |
+| [outstanding-league-branch.md](outstanding-league-branch.md) | 甲级团支部 |
+| [merit-student-and-cadre.md](merit-student-and-cadre.md) | 三好学生与优秀学生干部 |
+| [advanced-grassroots-organization.md](advanced-grassroots-organization.md) | 先进基层组织 |
+| [outstanding-party-branch-secretary.md](outstanding-party-branch-secretary.md) | 优秀党支部书记 |
+| [outstanding-party-member.md](outstanding-party-member.md) | 优秀共产党员 |
+| [outstanding-league-member.md](outstanding-league-member.md) | 优秀共青团员 |
+
+按年份的成就记录见 [2025.md](2025.md)、[2026.md](2026.md)。
