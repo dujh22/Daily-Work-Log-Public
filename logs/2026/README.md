@@ -44,6 +44,10 @@
 
 ### 月总结
 
+1. LogicEvolve Rebuttal
+2. Groom投稿ARR
+3. Awesome-RSI论文草稿完成
+
 ### 周总结
 
 | 周次 | 日期       | 具体成就                                                                                                                                                |
