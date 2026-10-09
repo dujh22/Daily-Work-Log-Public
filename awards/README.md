@@ -131,15 +131,13 @@
 
 ## 奖项材料索引
 
-以下专项材料文件使用英文文件名,中文对照如下:
-
-| 文件 | 中文名称 |
+| 文件 | 说明 |
 | --- | --- |
-| [outstanding-league-branch.md](outstanding-league-branch.md) | 甲级团支部 |
-| [merit-student-and-cadre.md](merit-student-and-cadre.md) | 三好学生与优秀学生干部 |
-| [advanced-grassroots-organization.md](advanced-grassroots-organization.md) | 先进基层组织 |
-| [outstanding-party-branch-secretary.md](outstanding-party-branch-secretary.md) | 优秀党支部书记 |
-| [outstanding-party-member.md](outstanding-party-member.md) | 优秀共产党员 |
-| [outstanding-league-member.md](outstanding-league-member.md) | 优秀共青团员 |
+| [甲级团支部.md](甲级团支部.md) | 清华大学甲级团支部申报材料 |
+| [三好学生与优秀学生干部.md](三好学生与优秀学生干部.md) | 三好学生与优秀学生干部申报材料 |
+| [先进基层组织.md](先进基层组织.md) | 清华大学学生先进基层党组织(党支部)申报材料 |
+| [优秀党支部书记.md](优秀党支部书记.md) | 清华大学学生优秀党建与思想政治工作者(党支部书记)申报材料 |
+| [优秀共产党员.md](优秀共产党员.md) | 清华大学学生优秀共产党员申报材料 |
+| [优秀共青团员.md](优秀共青团员.md) | 清华大学优秀共青团员申报材料 |
 
 按年份的成就记录见 [2025.md](2025.md)、[2026.md](2026.md)。
