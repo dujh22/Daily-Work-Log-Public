@@ -4,6 +4,16 @@
 
 ## 年总结
 
+- **1月**：LogicEvolve 围绕审稿敏感点做结构性补强，EvolveLRM 从框架图、研究计划推进到运行可验证的工程底座。
+- **2月**：LogicEvolve 完成评测、时间戳、稳健性等工程修正，EvolveLRM 初稿成形并补齐部署与评估模块，专利进入准备。
+- **3月**：专利初稿写完，应对 ICML Rebuttal，开题材料准备，EvolveLRM 工程与 CHI 方向的 CV 工作同步推进。
+- **4月**：顺序开题并返修专利，继续 ICML Rebuttal，EvolveLRM 打通数据合成、AutoResearch、多机与 Planner，开始 Harness 论文学习。
+- **5月**：LogicEvolve 转投、EvolveLRM 完成初稿并投稿，同时补齐工程闭环与可视化，外出交流密集。
+- **6月**：Groom 论文写出 V0 版本，Awesome-RSI 综述尝试自动化生产，承担 NeurIPS 与 ARR 审稿。
+- **7月**：LogicEvolve 完成两轮 Rebuttal 实验与回复，Groom 投稿 ARR，Awesome-RSI 论文草稿完成。
+- **8月**：LLM-DailyDigest 完成自动化改造，LogicEvolve 整理出 V1、V2、V3 三个版本，CVTransformer 完成 MVP 与真实数据测试。
+- **9月**：HarnessEvolve、SwarmEvolve、DataEvolve、EvalEvolve、CVTransformer五篇论文投出 ICLR 并完成 Groom Rebuttal，LogicEvolve、Awesome-RSI、JevEvolve、CVTransformer、CVPrefilter、CVBenchmark 多线推进。
+- **10月**：LogicEvolve 与 Awesome-RSI 完成 ARR 投稿，完成五篇 ICLR 审稿，AutoResearch SOP V2 落地，EvolveLLM、EvolveLRM、HarnessEvolve 进入推进阶段。
 
 ## 10月
 
