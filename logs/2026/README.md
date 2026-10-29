@@ -31,27 +31,27 @@
 
 ### 日总结
 
-| 序号 | 日期  | 星期 | 具体成就                                                                                                                                                          |
-| ---- | ----- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 19   | 10.28 | 3    |                                                                                                                                                                   |
-| 18   | 10.27 | 2    |                                                                                                                                                                   |
-| 17   | 10.26 | 1    | 1. EvolveLLM整理相关历史研究<br />2. CVTransformer项目推进 <br />3. 阅读RSIHub研究                                                                              |
-| 16   | 10.25 | 7    | 1. 游泳<br />2. 研工组系统推进                                                                                                                                   |
-| 15   | 10.24 | 6    | 1. Awesome-RSI、SwarmEvolve两个工作制作PPT<br />2. 回顾研究后训练Survey、Memory、GLM4.5、GLM5                                                                    |
-| 14   | 10.23 | 5    | 1. ✅ EvolveLLM：整理进度表<br />2. ✅ EvolveLRM：修PPT、SOP推进1.3 1.4 2.1  <br />3. ✅ Groom：修改PPT<br />4. ✅ HarnessEvolve：制作PPT，SOP推进1.1 1.2    |
-| 13   | 10.22 | 4    | 1. ⌛️ 论文EvolveLRM重建SOP                                                                                                                                     |
-| 12   | 10.21 | 3    | 1. ✅ AutoResearch SOP V2 完成<br />2. ✅ 一二九辅导员评优获得推荐，填报系统  <br />3. ⌛️ 论文-EvolveLRM使用SOP V2  <br />4. 大模型学习&编程              |
-| 11   | 10.20 | 2    | 1. 大模型学习<br />2. 实验室月报  <br />3. CV讨论  <br />4. ⌛️ SOP优化                                                                                  |
-| 10   | 10.19 | 1    | 1. ✅ 健身：胸<br />2. ✅ ICLR 5篇论文审稿-8h  <br />3. ⌛️ 科研SOP建立v2版本-3h                                                                               |
-| 9    | 10.18 | 7    | 1. 游泳<br />2. 周报  <br />3. 大语言模型学习  <br />4. cv修bug                                                                                              |
-| 8    | 10.17 | 6    | 1. LogicEvolve 和 Awesome-RSI完成ARR投稿<br />2. 研究生奖学金完成申请  <br />3. 选调笔试                                                                      |
-| 7    | 10.11 | 7    | 1. 游泳                                                                                                                                                           |
-| 6    | 10.10 | 6    | 1. LogicEvolve V2 形成ARR投稿版本<br />2. Awesome-RSI 形成ARR投稿版本  <br />3. CVPrefilter、JevEvolve推进                                                    |
-| 5    | 10.9  | 5    | 1. Groom 继续推进：重写中文版<br />2. CVPrefilter V3算法  <br />3. LogicEvolve、JevEvolve和Awesome-RSI 构思与推进                                            |
-| 4    | 10.8  | 4    | 1. ⌛️ CVPrefilter 推进-1h53m<br />2. ✅ LLM-DailyDegest项目优化与本周日报补齐  <br />3. ⌛️ Groom推进计划  <br />4. ✅ 各种堆积的社工杂务                  |
-| 3    | 10.7  | 3    | ⌛ CVPrefilter 推进                                                                                                                                               |
-| 2    | 10.6  | 2    | ⌛ CVTransformer、CVPrefilter、CVBenchmark 推进                                                                                                                   |
-| 1    | 10.1  | 4    | 1. 推进CVTransformer debug<br />2. LLM-DailyDegest项目优化                                                                                                        |
+| 序号 | 日期  | 星期 | 具体成就                                                                                                                                                                                             |
+| ---- | ----- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 20   | 10.29 | 4    |                                                                                                                                                                                                      |
+| 18   | 10.27 | 2    | 1. 和人机交互团队交流学习RSI进展<br />2. ⌛️ 担任ARR AC，工作要求整理   <br />3. ✅ Memory 回填项目信息、✅ 制作PPT  <br />4. ✅后训练Survey 回填项目信息、✅ 制作PPT  <br />5. ✅ CV讨论 |
+| 17   | 10.26 | 1    | 1. EvolveLLM整理相关历史研究<br />2. CVTransformer项目推进 <br />3. 阅读RSIHub研究                                                                                                                 |
+| 16   | 10.25 | 7    | 1. 游泳<br />2. 研工组系统推进                                                                                                                                                                      |
+| 15   | 10.24 | 6    | 1. Awesome-RSI、SwarmEvolve两个工作制作PPT<br />2. 回顾研究后训练Survey、Memory、GLM4.5、GLM5                                                                                                       |
+| 14   | 10.23 | 5    | 1. ✅ EvolveLLM：整理进度表<br />2. ✅ EvolveLRM：修PPT、SOP推进1.3 1.4 2.1  <br />3. ✅ Groom：修改PPT<br />4. ✅ HarnessEvolve：制作PPT，SOP推进1.1 1.2                                       |
+| 13   | 10.22 | 4    | 1. ⌛️ 论文EvolveLRM重建SOP                                                                                                                                                                        |
+| 12   | 10.21 | 3    | 1. ✅ AutoResearch SOP V2 完成<br />2. ✅ 一二九辅导员评优获得推荐，填报系统  <br />3. ⌛️ 论文-EvolveLRM使用SOP V2  <br />4. 大模型学习&编程                                                 |
+| 11   | 10.20 | 2    | 1. 大模型学习<br />2. 实验室月报  <br />3. CV讨论  <br />4. ⌛️ SOP优化                                                                                                                     |
+| 10   | 10.19 | 1    | 1. ✅ 健身：胸<br />2. ✅ ICLR 5篇论文审稿-8h  <br />3. ⌛️ 科研SOP建立v2版本-3h                                                                                                                  |
+| 9    | 10.18 | 7    | 1. 游泳<br />2. 周报  <br />3. 大语言模型学习  <br />4. cv修bug                                                                                                                                 |
+| 8    | 10.17 | 6    | 1. LogicEvolve 和 Awesome-RSI完成ARR投稿<br />2. 研究生奖学金完成申请  <br />3. 选调笔试                                                                                                         |
+| 7    | 10.11 | 7    | 1. 游泳                                                                                                                                                                                              |
+| 6    | 10.10 | 6    | 1. LogicEvolve V2 形成ARR投稿版本<br />2. Awesome-RSI 形成ARR投稿版本  <br />3. CVPrefilter、JevEvolve推进                                                                                       |
+| 5    | 10.9  | 5    | 1. Groom 继续推进：重写中文版<br />2. CVPrefilter V3算法  <br />3. LogicEvolve、JevEvolve和Awesome-RSI 构思与推进                                                                               |
+| 4    | 10.8  | 4    | 1. ⌛️ CVPrefilter 推进-1h53m<br />2. ✅ LLM-DailyDegest项目优化与本周日报补齐  <br />3. ⌛️ Groom推进计划  <br />4. ✅ 各种堆积的社工杂务                                                     |
+| 3    | 10.7  | 3    | ⌛ CVPrefilter 推进                                                                                                                                                                                  |
+| 2    | 10.6  | 2    | ⌛ CVTransformer、CVPrefilter、CVBenchmark 推进                                                                                                                                                      |
+| 1    | 10.1  | 4    | 1. 推进CVTransformer debug<br />2. LLM-DailyDegest项目优化                                                                                                                                           |
 
 ## 9月
 
