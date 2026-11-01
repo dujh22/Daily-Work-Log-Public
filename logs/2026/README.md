@@ -13,7 +13,23 @@
 - **7月**：LogicEvolve 完成两轮 Rebuttal 实验与回复，Groom 投稿 ARR，Awesome-RSI 论文草稿完成。
 - **8月**：LLM-DailyDigest 完成自动化改造，LogicEvolve 整理出 V1、V2、V3 三个版本，CVTransformer 完成 MVP 与真实数据测试。
 - **9月**：HarnessEvolve、SwarmEvolve、DataEvolve、EvalEvolve、CVTransformer五篇论文投出 ICLR 并完成 Groom Rebuttal，LogicEvolve、Awesome-RSI、JevEvolve、CVTransformer、CVPrefilter、CVBenchmark 多线推进。
-- **10月**：LogicEvolve 与 Awesome-RSI 完成 ARR 投稿，完成五篇 ICLR 审稿，AutoResearch SOP V2 落地，EvolveLLM、EvolveLRM、HarnessEvolve 进入推进阶段。
+- **10月**：LogicEvolve 与 Awesome-RSI 完成 ARR 投稿，完成五篇 ICLR 审稿并以 ARR AC 身份处理十篇论文，AutoResearch SOP V2 落地，EvolveLRM、Groom、EvolveLLM、CVTransformer 持续推进。
+
+## 11月
+
+### 月总结
+
+### 周总结
+
+| 周次 | 日期      | 具体成就 |
+| ---- | --------- | -------- |
+| 1    | 11.1~11.8 |          |
+
+### 日总结
+
+| 序号 | 日期 | 星期 | 具体成就 |
+| ---- | ---- | ---- | -------- |
+| 1    | 11.1 | 7    |          |
 
 ## 10月
 
